@@ -1,5 +1,5 @@
 # Week-5-HW
-Link: https://tsalamatin.github.io/Week-5-HW/
+Link: https://tsalamatin.github.io/DayJS-Day-Scheduler/
 
 Homework based on Third party APIs
  
